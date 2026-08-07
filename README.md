@@ -32,9 +32,11 @@ Guia de estilo simplificado para garantir a consistência de interface (UI) e ex
   * **Títulos e Subtítulos:** Etna Sans Serif (H1: 40-60px | H2: 28-36px)
   * **Corpo de Texto:** Clear Sans (Mínimo de 18-24px)
 * **Paleta de Cores (Diretriz 60-30-10):**
-  * Vermelho (`#1e293b` ou correspondente do sistema)
-  * Verde (`#14974f`)
-  * Bege claro (`#fffaed`)
+  
+  * (`#E5E7EB`)
+  * (`#22314d`)
+  * (`#AA8E52`)
+    
 * **Ícones:** Divisão padronizada entre *Ícones de Sistema* (ações gerais como fechar/voltar) e *Ícones de Produto* (representação de ferramentas específicas do setor metalúrgico).
 
 ## Próximos Passos
